@@ -7,8 +7,7 @@
 http://edge.linknetott.swiftserve.com/channelgroup4/cg409production/ch26/03.m3u8
 
 #EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.postimg.cc/Gtcp6L4c/ANTV.png",ANTV
-https://op-group2-swiftservesd-1.dens.tv/s/s07/index3.m3u8?app_type=web&userid=jjj&chname=antv
-https://op-group2-swiftservesd-1.dens.tv/s/s07/01.m3u8
+http://210.210.155.37/qwr9ew/s/s07/index.m3u8
 
 #EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.postimg.cc/N06BYhqL/indosiar.png",INDOSIAR
 http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/03.m3u8
@@ -23,8 +22,7 @@ https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.postimg.cc/tJVQ3HsN/tvone.png",TVOne
-https://op-krgroup1-swiftservehd-1.dens.tv/h/h40/index.m3u8?app_type=web&userid=jjj&chname=tvOne
-https://op-krgroup1-swiftservehd-1.dens.tv/h/h40/01.m3u8
+http://210.210.155.37/qwr9ew/s/s105/index.m3u8
 
 #EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.postimg.cc/mrXgVBgv/metroTV.png",Metro TV
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/manifest.mpd
