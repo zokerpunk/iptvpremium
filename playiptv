@@ -28,3 +28,22 @@ http://45.126.83.51:80/qwr9ew/s/s08/01.m3u8
 https://visionplus-stream.visionplus.id/live/eds/NetTV-M1/sa_hls/NetTV-M1.m3u8
 http://185.238.0.145:1313/c/ku/see/j.MiBiFUN?a=nettv
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VCsvKyP/wry.png" group-title="INDONESIA",TV ONE
+http://210.210.155.35:80/qwr9ew/s/s105/01.m3u8
+https://visionplus-stream.visionplus.id/live/eds/TVONE-Decepticon/sa_hls/TVONE-Decepticon.m3u8
+
+#EXTINF:0 tvg-logo="https://www.mncvision.id/userfiles/image/channel/metro_tv.png" group-title="INDONESIA",Metro TV
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
+https://visionplus-stream.visionplus.id/live/eds/MetroTV-RTX/sa_hls/MetroTV-RTX.m3u8 
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QpDxmym/cgki.png" group-title="INDONESIA",Kompas TV
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/manifest.mpd
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vQwqWFS/TVRI.png" group-title="INDONESIA",TVRI
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
+http://nonton.wap.sh/id/018.m3u8
+http://202.80.222.130/000001/2/ch14041511560872104862/index.m3u8?virtualDomain=000001.live_hls.zte.com
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
+
