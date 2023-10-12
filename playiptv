@@ -7,6 +7,7 @@
 http://edge.linknetott.swiftserve.com/channelgroup4/cg409production/ch26/03.m3u8
 
 #EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.postimg.cc/Gtcp6L4c/ANTV.png",ANTV
+https://op-group2-swiftservesd-1.dens.tv/s/s07/index3.m3u8?app_type=web&userid=jjj&chname=antv
 https://op-group2-swiftservesd-1.dens.tv/s/s07/01.m3u8
 
 #EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.postimg.cc/N06BYhqL/indosiar.png",INDOSIAR
