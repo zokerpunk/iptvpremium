@@ -1,1 +1,12 @@
 
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/a1xidq9ew6pgtfs/r.png" group-title="INDONESIA",RCTI
+https://m3u-editor.com/serve/35a60020-b879-11ec-92f0-07e8dd188009/542601666
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/a1xidq9ew6pgtfs/r.png" group-title="INDONESIA",RCTI2
+https://rcti-linier.rctiplus.id/live/eds/RCTI_2021/live_fta/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/a1xidq9ew6pgtfs/r.png" group-title="INDONESIA",RCTI3
+https://visionplus-stream.visionplus.id/live/eds/RCTI-Indonesia/sa_hls/RCTI-Indonesia.m3u8
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/a1xidq9ew6pgtfs/r.png" group-title="INDONESIA",RCTI4
+https://cdn-livetv-studio.metube.id/rcti.m3u8
