@@ -23,7 +23,7 @@ https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.postimg.cc/tJVQ3HsN/tvone.png",TVOne
 http://210.210.155.37/qwr9ew/s/s105/index.m3u8
-##https://drive.usercontent.google.com/download?id=1Mqc-BfImX7GBQlC6HFahhPEiSUnDQ4IK&export=download&authuser=0&confirm=t&uuid=8ee73c8a-5c08-46b8-a53b-607f42daff87&at=APZUnTXEjThNuCDhCU6GimzblUGm:1697214187459
+https://drive.usercontent.google.com/download?id=1Mqc-BfImX7GBQlC6HFahhPEiSUnDQ4IK&export=download&authuser=0&confirm=t&uuid=9a4eec36-f69f-474e-a0ba-1f3e195e022b&at=APZUnTXRR8eVZ6vsU5Phi0NHweaT:1697214542916
 
 #EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.postimg.cc/mrXgVBgv/metroTV.png",Metro TV
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/manifest.mpd
@@ -75,13 +75,14 @@ http://edge.medcom.id/live-edge/smil:mgnch.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="jtv.id" tvg-logo="https://i.postimg.cc/kMVMy4wz/jtv.jpg",JTV
 #EXTGRP:TV Nasional
+https://drive.usercontent.google.com/download?id=1Mqc-BfImX7GBQlC6HFahhPEiSUnDQ4IK&export=download&authuser=0&confirm=t&uuid=9a4eec36-f69f-474e-a0ba-1f3e195e022b&at=APZUnTXRR8eVZ6vsU5Phi0NHweaT:1697214542916
 http://nyanv-live-cdn.mncnow.id/live/eds/JTV/sa_hls/JTV.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/g2hNyv6j/tvrisport.png" group-title="TV Nasional",TVRI SPORT
 http://210.210.155.35/qwr9ew/s/s107/index.m3u8
 
 #EXTINF:-1 group-title="info" tvg-logo="https://i.postimg.cc/DfG8QJQB/info.jpg",info
-https://drive.usercontent.google.com/download?id=1Mqc-BfImX7GBQlC6HFahhPEiSUnDQ4IK&export=download&authuser=0&confirm=t&uuid=8ee73c8a-5c08-46b8-a53b-607f42daff87&at=APZUnTXEjThNuCDhCU6GimzblUGm:1697214187459
+https://drive.usercontent.google.com/download?id=1Mqc-BfImX7GBQlC6HFahhPEiSUnDQ4IK&export=download&authuser=0&confirm=t&uuid=9a4eec36-f69f-474e-a0ba-1f3e195e022b&at=APZUnTXRR8eVZ6vsU5Phi0NHweaT:1697214542916
 https://drive.usercontent.google.com/download?id=1-PL2ej3iA2cIop0_5kSQjrq8zG6T6Vu2&export=download&authuser=0&confirm=t&uuid=3124020c-32d1-4a9e-b86b-e00626680aab&at=APZUnTV9Lwq9g42xBLWE9uBCWrpn:1696878041416
 
 
