@@ -26,17 +26,17 @@ https://lowhls1.gogoplayer.xyz/video/data/c0hCYUd4dERNMTI1bjl5NUxVTzJYMm5NZTZXNn
 https://scontent-sin6-1rr2---sn-npoeenl7.kananterus.com/hd/server6/aB6AwzQRHnAyTBKab8egbQ/1710867600/5/1e727e320f103342aed17b4132447178/index.m3u8
 #EXTINF:-1 subtitles="https://raw.githubusercontent.com/zokerpunk/sub/main/heartsurgeon2.srt" group-title="HEART SURGEONS" tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/vod/heartsugion.jpg",ep 02
 https://scontent-sin6-1rr2---sn-npoeenl7.kananterus.com/hd/server8/aB6AwzQRHnAyTBKab8egbQ/1710867600/5/a4c749bc2463a140fb03b4ad50f7f103/index.m3u8
-#EXTINF:-1  subtitles="https://raw.githubusercontent.com/zokerpunk/sub/main/heartsurgeon3.srt" group-title="HEART SURGEONS" tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/vod/heartsugion.jpg",ep 03
+#EXTINF:-1 subtitles="https://raw.githubusercontent.com/zokerpunk/sub/main/heartsurgeon3.srt" group-title="HEART SURGEONS" tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/vod/heartsugion.jpg",ep 03
 https://scontent-sin6-1rr2---sn-npoeenl7.kananterus.com/hd/server6/aB6AwzQRHnAyTBKab8egbQ/1710867600/5/f6d70724a32f9acf1e007249fd044bcc/index.m3u8
-#EXTINF:-1 group-title="HEART SURGEONS" tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/vod/heartsugion.jpg",ep 04
+#EXTINF:-1 subtitles="https://raw.githubusercontent.com/zokerpunk/sub/main/heartsurgeon4.srt" group-title="HEART SURGEONS" tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/vod/heartsugion.jpg",ep 04
 https://scontent-sin6-1rr2---sn-npoeenl7.kananterus.com/hd/server3/aB6AwzQRHnAyTBKab8egbQ/1710867600/5/266d52154ff6891d87170f6a789fe9d7/index.m3u8
-#EXTINF:-1 group-title="HEART SURGEONS" tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/vod/heartsugion.jpg",ep 05
+#EXTINF:-1 subtitles="https://raw.githubusercontent.com/zokerpunk/sub/main/heartsurgeon5.srt" group-title="HEART SURGEONS" tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/vod/heartsugion.jpg",ep 05
 https://scontent-sin6-1rr2---sn-npoeenl7.kananterus.com/hd/server5/aB6AwzQRHnAyTBKab8egbQ/1710867600/7/cae4db04ff70a777a10d197217b6c366/index.m3u8
-#EXTINF:-1 group-title="HEART SURGEONS" tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/vod/heartsugion.jpg",ep 06
+#EXTINF:-1 subtitles="https://raw.githubusercontent.com/zokerpunk/sub/main/heartsurgeon6.srt" group-title="HEART SURGEONS" tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/vod/heartsugion.jpg",ep 06
 https://scontent-sin6-1rr2---sn-npoeenl7.kananterus.com/hd/server3/aB6AwzQRHnAyTBKab8egbQ/1710867600/7/1382e804ed92a6eab35845890a42f931/index.m3u8
-#EXTINF:-1 group-title="HEART SURGEONS" tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/vod/heartsugion.jpg",ep 07
+#EXTINF:-1 subtitles="https://raw.githubusercontent.com/zokerpunk/sub/main/heartsurgeon7.srt" group-title="HEART SURGEONS" tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/vod/heartsugion.jpg",ep 07
 https://scontent-sin6-1rr2---sn-npoeenl7.kananterus.com/hd/server5/aB6AwzQRHnAyTBKab8egbQ/1710867600/8/511eaeee28793426bd6517942bc9a7e4/index.m3u8
-#EXTINF:-1 group-title="HEART SURGEONS" tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/vod/heartsugion.jpg",ep 08
+#EXTINF:-1 subtitles="https://raw.githubusercontent.com/zokerpunk/sub/main/heartsurgeon8.srt" group-title="HEART SURGEONS" tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/vod/heartsugion.jpg",ep 08
 https://scontent-sin6-1rr2---sn-npoeenl7.kananterus.com/hd/server5/aB6AwzQRHnAyTBKab8egbQ/1710867600/8/7d7c1d27a42c63c1b994a503bb5ba8ba/index.m3u8
 #EXTINF:-1 group-title="HEART SURGEONS" tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/vod/heartsugion.jpg",ep 09
 https://scontent-sin6-1rr2---sn-npoeenl7.kananterus.com/hd/server5/aB6AwzQRHnAyTBKab8egbQ/1710867600/8/6622100cec07ebb61c13a7f18af96a80/index.m3u8
